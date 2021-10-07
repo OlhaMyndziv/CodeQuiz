@@ -140,3 +140,5 @@ main {
   main #highscore_page #highscore_list div:nth-child(even) {
     background-color: rgba(31, 74, 109, 0.1);
   }
+
+  

@@ -10,3 +10,4 @@ SO THAT I can gauge my progress compared to my peers
 See live application [here](https://olhamyndziv.github.io/CodeQuiz/)
 
 ![alt text](assets/image/1.png)
+
